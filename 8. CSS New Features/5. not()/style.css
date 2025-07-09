@@ -34,7 +34,7 @@ body {
 }
 
 /* Attribute Selector */
-.section.D a:not([href*="https://www.udemy.com/user/huxn-webdev"])
+.section.D a:not([href*="https://www.udemy.com"])
 {
   color: burlywood;
   text-decoration: none;
